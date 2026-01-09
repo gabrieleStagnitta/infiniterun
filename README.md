@@ -1,6 +1,6 @@
-# Infinite Run
-Qui troverete lezione dopo lezione i vari package, così da poterli recuperare ogni qual volta sia necessario farlo
 ## Come importarlo:
-Ci sono due metodi:
--Scaricarlo e trascinarlo all'interno di un progetto Unity
--Scaricarlo e semplicemente fare doppio click su di esso con un progetto Unity aperto
+
+È possibile importare il package in due modi:
+
+* **Trascinamento:** Scarica il file e trascinalo direttamente all'interno della finestra "Project" del tuo progetto Unity.
+* **Doppio click:** Scarica il file e fai doppio click su di esso mentre il progetto Unity è già aperto.
